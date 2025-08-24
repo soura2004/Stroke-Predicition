@@ -38,7 +38,7 @@ stroke: 1 → patient had a stroke, 0 → did not have a stroke
 
 ⚙️ Methodology
 
-Data Preprocessing
+### Data Preprocessing
 
 Handling missing values
 
@@ -46,7 +46,7 @@ Encoding categorical variables
 
 Normalization/standardization of numerical features
 
-Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 
 Distribution analysis
 
@@ -54,7 +54,7 @@ Correlation heatmaps
 
 Feature importance visualization
 
-Model Development
+### Model Development
 
 Train/test split
 
@@ -68,7 +68,7 @@ Decision Tree
 
 Support Vector Machine (SVM)
 
-Model Evaluation
+### Model Evaluation
 
 Accuracy, Precision, Recall, F1-score
 
